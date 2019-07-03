@@ -10,6 +10,7 @@ class Snake(mongoengine.Document):
     name = mongoengine.StringField(required=True)
     is_venomous = mongoengine.BooleanField(required=True)
 
+    # create structure for mongo to represent the snakes in the db
     meta = {
         'db_alias': 'core',
         'collection': 'snakes'

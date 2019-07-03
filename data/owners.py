@@ -10,6 +10,7 @@ class Owner(mongoengine.Document):
     snake_ids = mongoengine.ListField()
     cage_ids = mongoengine.ListField()
 
+    # create structure for mongo to represent the owners in the db
     meta = {
         'db_alias': 'core',
         'collection': 'owners'
