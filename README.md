@@ -1,6 +1,6 @@
 # MongoDB Tutorial
 
-## Aims
+## Aims:
 
 - To learn the mongoDB tech and see if it will be applicable to applications I plan to make in the future. 
 
@@ -15,6 +15,7 @@
 A simple Air BnB replica but for snakesssss...
 
 - Snake BnB
+    - Snake owners and their pet's can share their snake cages as seemlessly integrated snake travelling compartments. 
 
 ## Tools:
 
