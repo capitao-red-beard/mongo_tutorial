@@ -19,10 +19,6 @@ A simple Air BnB replica but for snakesssss...
 - robo3t (download at `https://robomongo.org/download`)
 - VS Code (download at `https://code.visualstudio.com/`)
 
-
- ################################################################################################################################################################################
-
-
  # Code
 
  The following is a high-level breakdown of all the code in this repository
