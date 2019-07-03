@@ -5,8 +5,6 @@ from typing import Callable, Any
 class switch:
     """
         python-switch is a module-level implementation of the switch statement for Python.
-        See https://github.com/mikeckennedy/python-switch for full details.
-        Copyright Michael Kennedy (https://twitter.com/mkennedy)
     """
     __no_result = uuid.uuid4()
     __default = uuid.uuid4()
